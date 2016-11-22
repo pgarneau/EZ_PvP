@@ -1,0 +1,4 @@
+## Interface: 11200
+## Title: EZ_ECastBar
+## Notes: Displays an enemy cast bar
+EZ_ECastBar.lua
