@@ -1,0 +1,4 @@
+## Interface: 11200
+## Title: EZ_EDebuffs
+## Notes: Displays enemy debuffs and CC
+EZ_EDebuffs.lua
